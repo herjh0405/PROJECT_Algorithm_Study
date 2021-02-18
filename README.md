@@ -24,4 +24,5 @@
 > * 2902번 - KMP는 왜 KMP일까? [link](https://www.acmicpc.net/problem/2902)/[code](https://github.com/herjh0405/PROJECT_Algorithm_Study/blob/main/202102/2902.KMP%EB%8A%94%20%EC%99%9C%20KMP%EC%9D%BC%EA%B9%8C.ipynb)
 >   * ⭐ - 가장 쉬웠던 문제
 > * 15686번 - 	치킨 배달 [link](https://www.acmicpc.net/problem/15686)/[code](https://github.com/herjh0405/PROJECT_Algorithm_Study/blob/main/202102/15686.%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.ipynb)
->   * ⭐⭐⭐ - itertools.combinations를 몰라 너무 어려웠던 문제 / 시간복잡도가 걱정됐지만 다행히 해결 - 더 좋은 코드는 어떤 것일까?
+>   * ⭐⭐⭐ - itertools.combinations를 몰라 너무 어려웠던 문제 / 시간복잡도가 걱정됐지만 다행히 해결
+>     - 더 좋은 코드는 어떤 것일까?
