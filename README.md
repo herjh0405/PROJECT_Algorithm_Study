@@ -19,6 +19,7 @@
 >   * ⭐⭐ - 살짝 생각이 필요한 함정 문제 / collection.Counter시 items로 enumerate와 비슷한 형태 사용 가능
 > * 2309번 - 일곱 난쟁이 [link](https://www.acmicpc.net/problem/2309)/[code](https://github.com/herjh0405/PROJECT_Algorithm_Study/blob/main/202102/2309.%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.ipynb)
 >   * ⭐⭐ - flag 사용의 중요성을 알게 됨 / break시 이중포문 중 하나만 빠져나올 수 있음
+>     - exit이나 main-return을 써도 된다고 함
 > * 2747번 - 피보나치 수 [link](https://www.acmicpc.net/problem/2747)/[code](https://github.com/herjh0405/PROJECT_Algorithm_Study/blob/main/202102/2747.%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.ipynb)
 >   * ⭐ - 간단했다. 그냥 피보나치 식 쓰는 것과 동일
 > * 2902번 - KMP는 왜 KMP일까? [link](https://www.acmicpc.net/problem/2902)/[code](https://github.com/herjh0405/PROJECT_Algorithm_Study/blob/main/202102/2902.KMP%EB%8A%94%20%EC%99%9C%20KMP%EC%9D%BC%EA%B9%8C.ipynb)
